@@ -11,7 +11,7 @@ sudo apt install -y git tree puppet
 
 cd /etc/puppet/modules
 
-git clone https://github.com/Rasmusekmanhh/sshd
+sudo git clone https://github.com/Rasmusekmanhh/sshd
 
 sudo puppet apply -e 'class{"sshd":}'
 
