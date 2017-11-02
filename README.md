@@ -3,4 +3,4 @@ http://terokarvinen.com/2017/aikataulu-palvelinten-hallinta-ict4tn022-3-5-op-uus
 Write these commands in linux terminal:
 
 1. <wget https://raw.githubusercontent.com/Rasmusekmanhh/allinone/master/allinone.sh>
-2  <bash allinone.sh>
+2. <bash allinone.sh>
