@@ -16,7 +16,8 @@ sudo git clone https://github.com/Rasmusekmanhh/sshd
 sudo puppet apply -e 'class{"sshd":}'
 
 cd
-
+cd /home/xubuntu
+sudo rm -r allinone.sh
 echo "***************************"
 echo " "
 echo "Ready to use"
